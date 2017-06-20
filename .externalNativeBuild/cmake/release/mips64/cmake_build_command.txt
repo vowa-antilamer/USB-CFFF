@@ -1,0 +1,15 @@
+Executable : /data/vowa/Android/Sdk/cmake/3.6.3155560/bin/cmake
+arguments : 
+-H/home/vowa/StudioProjects/USB-CFFF/app
+-B/home/vowa/StudioProjects/USB-CFFF/app/.externalNativeBuild/cmake/release/mips64
+-GAndroid Gradle - Ninja
+-DANDROID_ABI=mips64
+-DANDROID_NDK=/data/vowa/Android/Sdk/ndk-bundle
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/vowa/StudioProjects/USB-CFFF/app/build/intermediates/cmake/release/obj/mips64
+-DCMAKE_BUILD_TYPE=Release
+-DCMAKE_MAKE_PROGRAM=/data/vowa/Android/Sdk/cmake/3.6.3155560/bin/ninja
+-DCMAKE_TOOLCHAIN_FILE=/data/vowa/Android/Sdk/ndk-bundle/build/cmake/android.toolchain.cmake
+-DANDROID_PLATFORM=android-22
+-DCMAKE_CXX_FLAGS=
+jvmArgs : 
+

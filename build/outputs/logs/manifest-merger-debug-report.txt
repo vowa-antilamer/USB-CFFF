@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vowa/StudioProjects/USB-CFFF/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/vowa/StudioProjects/USB-CFFF/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /home/vowa/StudioProjects/USB-CFFF/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vowa/StudioProjects/USB-CFFF/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/vowa/StudioProjects/USB-CFFF/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vowa/StudioProjects/USB-CFFF/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vowa/StudioProjects/USB-CFFF/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/vowa/StudioProjects/USB-CFFF/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vowa/StudioProjects/USB-CFFF/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/vowa/StudioProjects/USB-CFFF/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/vowa/StudioProjects/USB-CFFF/app/src/main/AndroidManifest.xml:4:22-65
+application
+ADDED from /home/vowa/StudioProjects/USB-CFFF/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/vowa/.android/build-cache/fd6cb1b329fa13e9d0a6947b77a7fbd8b203332a/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] /home/vowa/.android/build-cache/1ad69a23bae385aeec26857aaa24d969b6836584/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/vowa/.android/build-cache/ce39b0592a58aac4f882d0a4036be80409008017/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/vowa/.android/build-cache/b6c5c34d27870ac27e950938b0038ba349b92724/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/vowa/.android/build-cache/113869f6bafb03073c06c0564b26983b7876add8/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/vowa/.android/build-cache/c25311f87d2b6016faa2fed967ab301686ce5e9d/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/vowa/.android/build-cache/f4fc0e61e4d789c5004522c3609a78c819132e9c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/vowa/.android/build-cache/d3de321982cb40b82bb1fb50c9366dbb082e4439/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/vowa/.android/build-cache/581c481461a4542b91795f88917559d70f870513/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/vowa/.android/build-cache/9f72648ad9d854cdd85a79b323aab49790f04131/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/vowa/.android/build-cache/d63e710b1b6196fd01885acbb7589bfb7f32ec71/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/vowa/.android/build-cache/832cdd10e242be50f945f8e94749568bbc4027f1/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/vowa/StudioProjects/USB-CFFF/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/vowa/StudioProjects/USB-CFFF/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/vowa/StudioProjects/USB-CFFF/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /home/vowa/StudioProjects/USB-CFFF/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/vowa/StudioProjects/USB-CFFF/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/vowa/StudioProjects/USB-CFFF/app/src/main/AndroidManifest.xml:11:9-40
+activity#vowa_antilamer.usb_cfff.MainActivity
+ADDED from /home/vowa/StudioProjects/USB-CFFF/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /home/vowa/StudioProjects/USB-CFFF/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /home/vowa/StudioProjects/USB-CFFF/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /home/vowa/StudioProjects/USB-CFFF/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/vowa/StudioProjects/USB-CFFF/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/vowa/StudioProjects/USB-CFFF/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/vowa/StudioProjects/USB-CFFF/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/vowa/StudioProjects/USB-CFFF/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/vowa/StudioProjects/USB-CFFF/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /home/vowa/StudioProjects/USB-CFFF/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/vowa/.android/build-cache/fd6cb1b329fa13e9d0a6947b77a7fbd8b203332a/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] /home/vowa/.android/build-cache/1ad69a23bae385aeec26857aaa24d969b6836584/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/vowa/.android/build-cache/ce39b0592a58aac4f882d0a4036be80409008017/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/vowa/.android/build-cache/b6c5c34d27870ac27e950938b0038ba349b92724/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/vowa/.android/build-cache/113869f6bafb03073c06c0564b26983b7876add8/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/vowa/.android/build-cache/44e458938d88b3d6d50016bfdb66506528b0baba/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /home/vowa/.android/build-cache/c25311f87d2b6016faa2fed967ab301686ce5e9d/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /home/vowa/.android/build-cache/f4fc0e61e4d789c5004522c3609a78c819132e9c/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/vowa/.android/build-cache/d3de321982cb40b82bb1fb50c9366dbb082e4439/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/vowa/.android/build-cache/581c481461a4542b91795f88917559d70f870513/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/vowa/.android/build-cache/9f72648ad9d854cdd85a79b323aab49790f04131/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/vowa/.android/build-cache/d63e710b1b6196fd01885acbb7589bfb7f32ec71/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/vowa/.android/build-cache/832cdd10e242be50f945f8e94749568bbc4027f1/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /home/vowa/.android/build-cache/1ad69a23bae385aeec26857aaa24d969b6836584/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/vowa/StudioProjects/USB-CFFF/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vowa/StudioProjects/USB-CFFF/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vowa/StudioProjects/USB-CFFF/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vowa/StudioProjects/USB-CFFF/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /home/vowa/.android/build-cache/1ad69a23bae385aeec26857aaa24d969b6836584/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/vowa/.android/build-cache/ce39b0592a58aac4f882d0a4036be80409008017/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/vowa/.android/build-cache/b6c5c34d27870ac27e950938b0038ba349b92724/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/vowa/.android/build-cache/113869f6bafb03073c06c0564b26983b7876add8/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/vowa/.android/build-cache/44e458938d88b3d6d50016bfdb66506528b0baba/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/vowa/.android/build-cache/c25311f87d2b6016faa2fed967ab301686ce5e9d/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/vowa/.android/build-cache/f4fc0e61e4d789c5004522c3609a78c819132e9c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/vowa/.android/build-cache/d3de321982cb40b82bb1fb50c9366dbb082e4439/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/vowa/.android/build-cache/581c481461a4542b91795f88917559d70f870513/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/vowa/.android/build-cache/9f72648ad9d854cdd85a79b323aab49790f04131/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/vowa/.android/build-cache/d63e710b1b6196fd01885acbb7589bfb7f32ec71/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/vowa/.android/build-cache/832cdd10e242be50f945f8e94749568bbc4027f1/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /home/vowa/.android/build-cache/1ad69a23bae385aeec26857aaa24d969b6836584/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /home/vowa/.android/build-cache/1ad69a23bae385aeec26857aaa24d969b6836584/output/AndroidManifest.xml:26:9-47

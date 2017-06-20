@@ -1,0 +1,38 @@
+
+{
+	"buildFiles" : [ "/home/vowa/StudioProjects/USB-CFFF/app/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"/data/vowa/Android/Sdk/cmake/3.6.3155560/bin/cmake --build /home/vowa/StudioProjects/USB-CFFF/app/.externalNativeBuild/cmake/debug/x86 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"native-lib-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "native-lib",
+			"buildCommand" : "/data/vowa/Android/Sdk/cmake/3.6.3155560/bin/cmake --build /home/vowa/StudioProjects/USB-CFFF/app/.externalNativeBuild/cmake/debug/x86 --target native-lib",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/data/vowa/Android/Sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/linux-x86_64 --sysroot=/data/vowa/Android/Sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -isystem /data/vowa/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /data/vowa/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /data/vowa/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /data/vowa/Android/Sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=22 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/vowa/StudioProjects/USB-CFFF/app/src/main/cpp/native-lib.cpp",
+					"workingDirectory" : "/home/vowa/StudioProjects/USB-CFFF/app/.externalNativeBuild/cmake/debug/x86"
+				}
+			],
+			"output" : "/home/vowa/StudioProjects/USB-CFFF/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so",
+			"toolchain" : "12682930222469812265"
+		}
+	},
+	"toolchains" : 
+	{
+		"12682930222469812265" : 
+		{
+			"cCompilerExecutable" : "/data/vowa/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/data/vowa/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+		}
+	}
+}

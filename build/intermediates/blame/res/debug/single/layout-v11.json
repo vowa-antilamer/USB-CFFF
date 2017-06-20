@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/vowa/StudioProjects/USB-CFFF/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/vowa/.android/build-cache/ce39b0592a58aac4f882d0a4036be80409008017/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/vowa/StudioProjects/USB-CFFF/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/vowa/.android/build-cache/ce39b0592a58aac4f882d0a4036be80409008017/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/vowa/StudioProjects/USB-CFFF/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/vowa/.android/build-cache/ce39b0592a58aac4f882d0a4036be80409008017/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/vowa/StudioProjects/USB-CFFF/C:\\Users\\vowa\\StudioProjects\\USB-CFFF\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "/home/vowa/StudioProjects/USB-CFFF/C:\\Users\\vowa\\.android\\build-cache\\f2e8a8283437fc37892bcd64a96da658fd2ab27d\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/vowa/StudioProjects/USB-CFFF/C:\\Users\\vowa\\StudioProjects\\USB-CFFF\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "/home/vowa/StudioProjects/USB-CFFF/C:\\Users\\vowa\\.android\\build-cache\\f2e8a8283437fc37892bcd64a96da658fd2ab27d\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/vowa/StudioProjects/USB-CFFF/C:\\Users\\vowa\\StudioProjects\\USB-CFFF\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "/home/vowa/StudioProjects/USB-CFFF/C:\\Users\\vowa\\.android\\build-cache\\f2e8a8283437fc37892bcd64a96da658fd2ab27d\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/vowa/StudioProjects/USB-CFFF/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/vowa/.android/build-cache/ce39b0592a58aac4f882d0a4036be80409008017/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/vowa/StudioProjects/USB-CFFF/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/vowa/.android/build-cache/ce39b0592a58aac4f882d0a4036be80409008017/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/vowa/StudioProjects/USB-CFFF/C:\\Users\\vowa\\StudioProjects\\USB-CFFF\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "/home/vowa/StudioProjects/USB-CFFF/C:\\Users\\vowa\\.android\\build-cache\\f2e8a8283437fc37892bcd64a96da658fd2ab27d\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/vowa/StudioProjects/USB-CFFF/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/vowa/.android/build-cache/ce39b0592a58aac4f882d0a4036be80409008017/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/vowa/StudioProjects/USB-CFFF/C:\\Users\\vowa\\StudioProjects\\USB-CFFF\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "/home/vowa/StudioProjects/USB-CFFF/C:\\Users\\vowa\\.android\\build-cache\\f2e8a8283437fc37892bcd64a96da658fd2ab27d\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/vowa/StudioProjects/USB-CFFF/C:\\Users\\vowa\\StudioProjects\\USB-CFFF\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "/home/vowa/StudioProjects/USB-CFFF/C:\\Users\\vowa\\.android\\build-cache\\f2e8a8283437fc37892bcd64a96da658fd2ab27d\\output\\res\\layout-v11\\notification_media_action.xml"
+    }
+]
